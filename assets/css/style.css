@@ -1,0 +1,14 @@
+body{
+	background: grey;
+	text-align: center;
+}
+
+.text-top{
+	color: #ffffff;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 50px;
+}
